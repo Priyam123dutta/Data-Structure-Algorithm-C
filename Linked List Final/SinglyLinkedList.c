@@ -8,7 +8,7 @@ typedef  struct Node {
     struct Node *next;
 }Node;
 
-// Declearing GlobalHead & Tail
+// Declearing Global Head & Tail
 
 Node *head = NULL;
 Node *tail = NULL;
@@ -171,7 +171,7 @@ void deleteAtLast()
 
 void deleteAtPosition(int position)
 {
-    
+
 }
 
 void displayList()
